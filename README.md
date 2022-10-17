@@ -13,11 +13,11 @@
  - Stamp.pdf is the stamp used
 
  Future Improvements:
-    - As the program pastes one PDF onto another the Approval stamp is always in
+    As the program pastes one PDF onto another the Approval stamp is always in
     the same location. I've tried to keep this out the way but on some documents
-    this can overlay text.
-
-    - Unable to do a Dynamic Stamp (add Date & Time). This may have to be added 
+    this can overlay text. 
+-   
+    Unable to do a Dynamic Stamp add Date & Time. This may have to be added 
     separately in Python.
 
 Feedback Appreciated
