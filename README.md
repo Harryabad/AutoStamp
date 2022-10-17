@@ -13,6 +13,7 @@
  - Stamp.pdf is the stamp used
 
  Future Improvements:
+ 
  As the program pastes one PDF onto another the Approval stamp is always in
  the same location. I've tried to keep this out the way but on some documents
  this can overlay text. 
